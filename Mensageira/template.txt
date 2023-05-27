@@ -1,0 +1,3 @@
+Prezados {}, bom dia!
+
+Essa é a mensagem automática enviada 
